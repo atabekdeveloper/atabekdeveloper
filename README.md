@@ -2,7 +2,7 @@
 👋 Hi, I’m Atabek Otepbergenov.<br>👀 I’m interested in websites using React, and using my knowledge for social good. <br>🌱 I’m currently learning Flutter<br>🧑‍💻 I use JavaScript, TypeScript, and frameworks such as ReactJS,NextJS.<br>📫 How to reach me ... atabek122002@gmail.com<br>👦 Prounouns: he/him
 
 # 💻 Tech Stack:
-<div align="center">  
+<div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
