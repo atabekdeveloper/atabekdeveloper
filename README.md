@@ -1,5 +1,5 @@
 # 🤺 About Me:
-👋 Hi, I’m Atabek Otepbergenov.<br>👀 I’m interested in websites using React, and using my knowledge for social good. <br>🌱 I’m currently learning Node.js<br>🧑‍💻 I use JavaScript, TypeScript, and frameworks such as ReactJS,NextJS.<br>📫 How to reach me ... atabek122002@gmail.com<br>👦 Prounouns: he/him
+👋 Hi, I’m Atabek Otepbergenov.<br>👀 I’m interested in websites using React, and using my knowledge for social good.<br>🧑‍💻 I use JavaScript, TypeScript, and frameworks such as ReactJS,NextJS.<br>📫 How to reach me ... atabek122002@gmail.com<br>👦 Prounouns: he/him
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kiyotaaka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiyotaaka/)
