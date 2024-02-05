@@ -42,4 +42,4 @@ src="https://img.shields.io/github/followers/koujidev?logo=github&style=for-the-
 
 <a href="http://www.github.com/koujidev"><img src="https://github-readme-stats.vercel.app/api?username=saifmohamedsv&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="saifmohamedsv's GitHub stats" /></a>
 
-<a href="https://github.com/koujidev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifmohamedsv&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/koujidev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koujidev&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
