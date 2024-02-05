@@ -1,4 +1,4 @@
-Hi 🤚 My name is Atabek Otepbergenov
+Hi 👋 My name is Atabek Otepbergenov
 ====================================================================================================================================
 
 Results-Driven | Specialized in React.js | Crafting Engaging User Experiences | Expert in JavaScript
