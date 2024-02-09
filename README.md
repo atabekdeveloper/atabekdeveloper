@@ -4,7 +4,7 @@ Hi 👋 My name is Atabek Otepbergenov
 Developer
 -----------------------------
 
-* 🌍  I'm based in Qaraqalpaqstan, Nukus
+* 🌍  I'm based in Nukus, Karakalpakstan
 * 🖥️  See my portfolio at [My Portfolio](https:atabek.vercel.app)
 * ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
 * 🧠  I'm learning Next.js
