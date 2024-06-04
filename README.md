@@ -9,8 +9,8 @@ Developer
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
 
-<a href="https://www.github.com/koujidev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/koujidev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/atabekdevs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/atabekdevs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -28,4 +28,4 @@ src="https://img.shields.io/github/followers/koujidev?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/koujidev"><img src="https://github-readme-stats.vercel.app/api?username=koujidev&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="koujidev's GitHub stats" /></a>
+<a href="http://www.github.com/atabekdevs"><img src="https://github-readme-stats.vercel.app/api?username=atabekdevs&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atabekdev's GitHub stats" /></a>
