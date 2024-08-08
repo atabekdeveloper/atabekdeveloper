@@ -1,11 +1,15 @@
-# Atabek_Dev
-### Hi there, I'm <a href="https://t.me/atabekdev" target="_blank">Atabek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+Hi 👋 My name is Atabek Otepbergenov
+===============================
 
-### How to reach me: <a href="farkhodoffcodes@gmail.com">atabek122002@gmail.com</a>
+Developer
+-----------------------------
 
-<a href="https://t.me/atabekdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/atabekdeveloper/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
+* 🌍  I'm based in Nukus, Karakalpakstan
+* ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer
+
+<a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/atabekdeveloper?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -18,6 +22,9 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+
+### Badges
+
 <br>
 <!-- snake graph -->
 <div align="center">
