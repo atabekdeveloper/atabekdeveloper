@@ -1,16 +1,10 @@
-Hi 👋 My name is Atabek Otepbergenov
-===============================
+# Atabek_Dev
+### Hi there, I'm <a href="https://t.me/atabekdev" target="_blank">Atabek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-Developer
------------------------------
+### How to reach me: <a href="farkhodoffcodes@gmail.com">atabek122002@gmail.com</a>
 
-* 🌍  I'm based in Nukus, Karakalpakstan
-* ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer
-
-<a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atabekdeveloper?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://t.me/atabekdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+<a href="https://www.linkedin.com/in/atabekdeveloper/" target="_blank">
 
 ### Skills
 
@@ -23,9 +17,19 @@ src="https://img.shields.io/github/followers/atabekdeveloper?logo=github&style=f
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+<br>
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/atabekdeveloper"><img src="https://github-readme-stats.vercel.app/api?username=atabekdeveloper&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atabekdeveloper's GitHub stats" /></a>
+  <hr />
