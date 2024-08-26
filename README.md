@@ -8,9 +8,6 @@ Developer
 * ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
 
-<a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atabekdeveloper?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
