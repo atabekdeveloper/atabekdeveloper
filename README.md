@@ -5,7 +5,7 @@ I'm a frontend developer.
 -----------------------------
 
 * 🌍  I'm based in Nukus, Karakalpakstan
-* 🖥️  See my portfolio at [atabek.dev](https://atabek.vercel.app)
+* 🖥️  See my portfolio at [atabek.vercel.app](https://atabek.vercel.app)
 * ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
 
