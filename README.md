@@ -1,10 +1,11 @@
-Hi 👋 My name is Atabek Otepbergenov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atabek Otepbergenov.
 ===============================
 
-Developer
+I'm a frontend developer.
 -----------------------------
 
 * 🌍  I'm based in Nukus, Karakalpakstan
+* 🖥️  See my portfolio at [atabek.dev](https://atabek.vercel.app)
 * ✉️  You can contact me at [atabek122002@gmail.com](mailto:atabek122002@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
 
@@ -20,18 +21,12 @@ Developer
 
 <p align="left"> <a href="https://www.github.com/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atabekdeveloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 <br>
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
-  <hr />
+
+### Badges
+
+<a href="https://github.com/atabekdeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atabekdeveloper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/atabekdeveloper/portfolio align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=atabekdeveloper&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
